@@ -1,0 +1,27 @@
+{
+  "name": "i-give",
+  "version": "1.0.0",
+  "description": "Blood donor application where you register with your blood type and get notifications whenever donations are needed.",
+  "main": "index.js",
+  "scripts": {
+    "back": "npm start --prefix back",
+    "front": "npm start --prefix front",
+    "start": "concurrently \"npm run back\" \"npm run front\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seraphimsakiewicz/iGive.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seraphimsakiewicz/iGive/issues"
+  },
+  "homepage": "https://github.com/seraphimsakiewicz/iGive#readme",
+  "dependencies": {
+    "concurrently": "^6.3.0",
+    "react-geocode": "^0.2.3",
+    "react-tabs": "^3.2.3"
+  }
+}

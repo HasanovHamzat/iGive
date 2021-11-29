@@ -1,0 +1,3 @@
+
+
+export const ALL_HOSPITAL_MY_DONOR = 'ALL_HOSPITAL_MY_DONOR';

@@ -1,0 +1,46 @@
+.event {
+  margin-top: 20px;
+  flex: 1 1 auto;
+}
+.eventTitle {
+  margin: 0;
+  text-align: center;
+  margin-bottom: 30px;
+}
+.eventBlock {
+  padding: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px solid grey;
+  margin-bottom: 20px;
+  border-radius: 8px;
+}
+.eventInfo {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 650px;
+  
+}
+.eventLink {
+  display: flex;
+  justify-content: center;
+}
+.eventInfoItem {
+  margin: 0;
+  margin-bottom: 20px;
+}
+
+.eventWrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+.eventLeftBlock {
+  max-width: 900px;
+}
+.notEventTitle{
+  margin-bottom: 20px;
+  font-size: 18px;
+}

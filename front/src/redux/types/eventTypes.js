@@ -1,0 +1,6 @@
+export const ADD_EVENT = "ADD_EVENT";
+export const DELETE_MY_EVENT = "DELETE_MY_EVENT";
+export const SET_EVENTS = "SET_EVENTS";
+export const TAKE_ADDRESS_USER_AND_HOSPITAL = "TAKE_ADDRESS_USER_AND_HOSPITAL";
+export const SET_MY_EVENTS = "SET_MY_EVENTS";
+export const GET_MY_EVENTS = "GET_MY_EVENTS";

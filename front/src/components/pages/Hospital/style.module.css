@@ -1,0 +1,34 @@
+.event{
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+
+}
+.eventBlock{
+  padding: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px solid grey;
+  margin-bottom: 20px;
+  border-radius: 8px;
+}
+.eventInfo{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 956px;
+}
+.eventLink{
+  display: flex;
+  justify-content: center;
+}
+p{
+  margin: 0;
+}
+.hospitalArchivedEventsList{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}

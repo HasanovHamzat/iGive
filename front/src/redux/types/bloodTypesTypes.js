@@ -1,0 +1,1 @@
+export const ALL_BLOOD_TYPES = 'ALL_BLOOD_TYPES';

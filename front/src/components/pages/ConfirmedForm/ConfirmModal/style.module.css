@@ -1,0 +1,17 @@
+.Modal {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  display: block;
+  padding: 2em;
+  min-width: 20em;
+  max-width: 70%;
+  color: rgb(180, 142, 142);
+  background-color: #028E9B;
+  border-radius: 1em;
+  transform: translate(-50%, -50%);
+  outline: transparent;
+}
+.title{
+  color: white;
+}
